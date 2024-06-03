@@ -32,14 +32,15 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em sua
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/cadastro-de-alunos.git
+   git@github.com:luandniz/students-register-back.git
    
 ## Inicializando a Aplicação
 
 2. Instale as dependências necessárias usando
     ```bash
-     npm install
+    students-register-front
+    npm install
   
-4. Rode a aplicação localmente com o seguinte comando:
+3. Rode a aplicação localmente com o seguinte comando:
    ```bash
      npm run dev
