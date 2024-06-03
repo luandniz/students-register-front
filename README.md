@@ -32,7 +32,7 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em sua
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git@github.com:luandniz/students-register-back.git
+   git@github.com:luandniz/students-register-front.git
    
 ## Inicializando a Aplicação
 
