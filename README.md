@@ -44,3 +44,9 @@ Antes de iniciar, certifique-se de ter os seguintes requisitos instalados em sua
 3. Rode a aplicação localmente com o seguinte comando:
    ```bash
      npm run dev
+
+## Não esqueça de rodar e configurar a aplicação backe-end para ver o projeto funcionando:
+<a style="display:flex; justify-content:center" href="https://github.com/luandniz/students-register-back" alt="students-register-backeend"></a>
+
+
+
