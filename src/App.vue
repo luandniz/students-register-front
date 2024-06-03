@@ -1,9 +1,9 @@
 <template>
-  <div>{{ store.title }}</div>
+  <div class="w-full h-screen overflow-hidden">
+    <Dashboard />
+  </div>
 </template>
 
 <script setup lang="ts">
-import { useStudents } from "./store/useStudents";
-
-const store = useStudents();
+import Dashboard from "./pages/dashboard/dashboardPage.vue";
 </script>
